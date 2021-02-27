@@ -1,0 +1,1124 @@
+fileFormatVersion: 2
+guid: d79046ec70a4d4fbdb0cae726b2c4279
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1406412765467645651
+    second: nyan_0
+  - first:
+      213: 3317001909572124968
+    second: nyan_1
+  - first:
+      213: -3061372248151925345
+    second: nyan_2
+  - first:
+      213: 2971531198620210558
+    second: nyan_3
+  - first:
+      213: 8694321771485281966
+    second: nyan_4
+  - first:
+      213: -931619991444967324
+    second: nyan_5
+  - first:
+      213: 2495569930545470580
+    second: nyan_6
+  - first:
+      213: 3141078462980351922
+    second: nyan_7
+  - first:
+      213: 3069234654147070526
+    second: nyan_8
+  - first:
+      213: 5609545957834692220
+    second: nyan_9
+  - first:
+      213: 3511083822744052975
+    second: nyan_10
+  - first:
+      213: 2176645721467629008
+    second: nyan_11
+  - first:
+      213: -2016141945847842628
+    second: nyan_12
+  - first:
+      213: -4532136300593985235
+    second: nyan_13
+  - first:
+      213: -6659412112688353403
+    second: nyan_14
+  - first:
+      213: 3036296652519326022
+    second: nyan_15
+  - first:
+      213: 8688540958843548361
+    second: nyan_16
+  - first:
+      213: -6058230554633837535
+    second: nyan_17
+  - first:
+      213: 4632030635551009644
+    second: nyan_18
+  - first:
+      213: 8552661597339439272
+    second: nyan_19
+  - first:
+      213: -2487657476737289458
+    second: nyan_20
+  - first:
+      213: 4816777964167973854
+    second: nyan_21
+  - first:
+      213: -4898796944658314350
+    second: nyan_22
+  - first:
+      213: -8680743767362318021
+    second: nyan_23
+  - first:
+      213: -7963736146887870646
+    second: nyan_24
+  - first:
+      213: 1630517738128250195
+    second: nyan_25
+  - first:
+      213: 567183907619338179
+    second: nyan_26
+  - first:
+      213: 1066428119961968182
+    second: nyan_27
+  - first:
+      213: 2580117838102812036
+    second: nyan_28
+  - first:
+      213: 784002527487591700
+    second: nyan_29
+  - first:
+      213: 1239559302211043964
+    second: nyan_30
+  - first:
+      213: -589489573998901195
+    second: nyan_31
+  - first:
+      213: 7673983700120197076
+    second: nyan_32
+  - first:
+      213: 3289703535578685023
+    second: nyan_33
+  - first:
+      213: 8395551180914379536
+    second: nyan_34
+  - first:
+      213: 1586862163691419423
+    second: nyan_35
+  - first:
+      213: 2803542995335374065
+    second: nyan_36
+  - first:
+      213: -7608527113826306979
+    second: nyan_37
+  - first:
+      213: -8706683334100114632
+    second: nyan_38
+  - first:
+      213: 8787027532262317347
+    second: nyan_39
+  - first:
+      213: 2457706105815864970
+    second: nyan_40
+  - first:
+      213: -690125638113738453
+    second: nyan_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nyan_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 202
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29e9b29a0b6b7ce0800000000000000
+      internalID: -1406412765467645651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 202
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821c65b99ab580e20800000000000000
+      internalID: 3317001909572124968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 200
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d5aaff822d385d0800000000000000
+      internalID: -3061372248151925345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_3
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 203
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e759fbc91effc3920800000000000000
+      internalID: 2971531198620210558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 180
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae3350369f68a870800000000000000
+      internalID: 8694321771485281966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 181
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4603540cd883213f0800000000000000
+      internalID: -931619991444967324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 181
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c1f4631ab02a220800000000000000
+      internalID: 2495569930545470580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_7
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 181
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7e29d483a579b20800000000000000
+      internalID: 3141078462980351922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_8
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 181
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a41cc08ac189a20800000000000000
+      internalID: 3069234654147070526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 181
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7617f7f35c19dd40800000000000000
+      internalID: 5609545957834692220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_10
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 183
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4a74f5220e9b030800000000000000
+      internalID: 3511083822744052975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 182
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dda3f550cff43e10800000000000000
+      internalID: 2176645721467629008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_12
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 183
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb879fc05993504e0800000000000000
+      internalID: -2016141945847842628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 165
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2941710c0e9a11c0800000000000000
+      internalID: -4532136300593985235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 165
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fe64277f30593a0800000000000000
+      internalID: -6659412112688353403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 163
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6414f1ee7b7132a20800000000000000
+      internalID: 3036296652519326022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 165
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c23d4cd7f5e39870800000000000000
+      internalID: 8688540958843548361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 165
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124e1af8867dceba0800000000000000
+      internalID: -6058230554633837535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 165
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6baebc4257484040800000000000000
+      internalID: 4632030635551009644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 165
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0da89a86821b670800000000000000
+      internalID: 8552661597339439272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 142
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03ba3084b01a7dd0800000000000000
+      internalID: -2487657476737289458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 142
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb492cb902a8d240800000000000000
+      internalID: 4816777964167973854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 142
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b4fde322af30cb0800000000000000
+      internalID: -4898796944658314350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_23
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 142
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31de20498dc78780800000000000000
+      internalID: -8680743767362318021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_24
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 142
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a477fc70b202b7190800000000000000
+      internalID: -7963736146887870646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 103
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3559b157e33c0a610800000000000000
+      internalID: 1630517738128250195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 103
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7f7f742ca0fd700800000000000000
+      internalID: 567183907619338179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 103
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e12d499b6bcce00800000000000000
+      internalID: 1066428119961968182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 103
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48554c2f08b6ec320800000000000000
+      internalID: 2580117838102812036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 103
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41508e9152651ea00800000000000000
+      internalID: 784002527487591700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_30
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 103
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72025e2e9cc33110800000000000000
+      internalID: 1239559302211043964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538cffe0b56b1d7f0800000000000000
+      internalID: -589489573998901195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_32
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 83
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d75dc944877f7a60800000000000000
+      internalID: 7673983700120197076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 62
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e938e9fef57ad20800000000000000
+      internalID: 3289703535578685023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 62
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b4308415df28470800000000000000
+      internalID: 8395551180914379536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 63
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17b556fabaa50610800000000000000
+      internalID: 1586862163691419423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 63
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4ef7d108f28e620800000000000000
+      internalID: 2803542995335374065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_37
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 63
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d547474d6e4196690800000000000000
+      internalID: -7608527113826306979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_38
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 62
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833262b33a5ab2780800000000000000
+      internalID: -8706683334100114632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_39
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 62
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d92142cfac1f970800000000000000
+      internalID: 8787027532262317347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 24
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8696778ea68b1220800000000000000
+      internalID: 2457706105815864970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nyan_41
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 21
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2147d9736e2c66f0800000000000000
+      internalID: -690125638113738453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
